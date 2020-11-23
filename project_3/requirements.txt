@@ -1,0 +1,79 @@
+aiohttp==3.7.3
+aiohttp-cors==0.7.0
+aioredis==1.3.1
+async-timeout==3.0.1
+attrs==20.3.0
+beautifulsoup4==4.9.3
+blessings==1.7
+cachetools==4.1.1
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+cloudpickle==1.6.0
+colorama==0.4.4
+colorful==0.5.4
+cycler==0.10.0
+dataclasses==0.6
+decorator==4.4.2
+filelock==3.0.12
+future==0.18.2
+google==3.0.0
+google-api-core==1.23.0
+google-auth==1.23.0
+googleapis-common-protos==1.52.0
+gpustat==0.6.0
+grpcio==1.33.2
+hiredis==1.1.0
+hyperopt==0.2.5
+idna==2.10
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+jsonschema==3.2.0
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1604322295622/work
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1602600751051/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.0
+multidict==5.0.2
+networkx==2.5
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603570489231/work
+nvidia-ml-py3==7.352.0
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+opencensus==0.7.11
+opencensus-context==0.1.2
+pandas @ file:///tmp/build/80754af9/pandas_1602088120436/work
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1603406598992/work
+prometheus-client==0.9.0
+protobuf==3.14.0
+psutil==5.7.3
+py-spy==0.3.3
+pyaml==20.4.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyparsing==2.4.7
+pyrsistent==0.17.3
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+ray==1.0.1
+redis==3.4.1
+requests==2.25.0
+rsa==4.6
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376899566/work
+scikit-optimize @ file:///home/conda/feedstock_root/build_artifacts/scikit-optimize_1599212891685/work
+scipy @ file:///tmp/build/80754af9/scipy_1597686649129/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+sip==4.19.24
+six==1.15.0
+skorch @ file:///home/conda/feedstock_root/build_artifacts/skorch_1600488572036/work
+soupsieve==2.0.1
+tabulate==0.8.7
+tensorboardX==2.1
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+torch==1.7.0
+tornado @ file:///home/conda/feedstock_root/build_artifacts/tornado_1604105045397/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1603658198734/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+urllib3==1.26.2
+xgboost==1.2.0
+yarl==1.6.3
